@@ -1,2 +1,2 @@
 # Camren
-My name is Camren Carter I am new to the world of computer science and am very ambitious about this carreer path.
+My name is Camren Carter, I am new to the world of computer science and am very ambitious about this carreer path.
